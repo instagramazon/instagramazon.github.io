@@ -1,4 +1,6 @@
-*Note: This page contains fan poetry based on the [Stagrâm Cinematic Universe](http://www.google.com).*
+Error 400
+
+<!--
 
 # In Stagrâm, a Zøncøm!
 
@@ -22,4 +24,4 @@ And with a greedy bellow, there it died.
 More Zøncøm slumber 'neath the ocean's churn,  
 And without vigilance they will return...
 
-<iframe src="https://giphy.com/embed/l4KhKRcaYb43LVqq4" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bird-run-duck-l4KhKRcaYb43LVqq4">via GIPHY</a></p>
+-->
